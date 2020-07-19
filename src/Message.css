@@ -1,0 +1,19 @@
+.message{
+    padding:10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.main_user{
+    margin-left: auto;
+    text-align: left !important;
+}
+.user{
+    color:white !important;
+    background-color: #0A79DF !important;
+}
+
+.guest{
+    
+    background-color: #A4B0BD !important;
+}
